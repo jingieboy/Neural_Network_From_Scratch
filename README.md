@@ -50,6 +50,13 @@ This is a simple neural network, only with 2 layers.
 - $W^{[2]} = W^{[2]} - \alpha dW^{[2]}$ updates the weights for layer 2.
 - $b^{[2]} = b^{[2]} - \alpha db^{[2]}$ updates the bias for layer 2.
 
+# Implications
+
+![alt text](https://github.com/jingieboy/Neural_Network_From_Scratch/blob/main/ignore_img/train_loss.png)
+
+Overall, this is a pretty simple architecture that acheived a 90% accuracy. Definite improvements can be made, for example the current architecture uses a simple 2-layer neural network (784 -> 10 -> 10). We could onsider adding more layers or increasing the number of neurons in the hidden layer to capture more complex patterns. Other than that, adding batch normalization after the ReLU activation could improve training stability
+and experimenting with other activation functions like ELU or LeakyReLU for the hidden layer could well optimise performance. 
+
 
 
 
