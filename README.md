@@ -10,7 +10,7 @@ Here is a simple neural network architecture to recognise hand-written digits ba
 
 ![alt text](https://github.com/jingieboy/Neural_Network_From_Scratch/blob/main/ignore_img/goal.png)
 
-The training image are 28 x 28 pixels, 784 pixels in total. Since images are greyscaled, each pixel ranges from 0 to 255. 255 means white, 0 means black. 
+The training images are 28 x 28 pixels, 784 pixels in total. Since images are greyscaled, each pixel ranges from 0 to 255. 255 means white, 0 means black. 
 
 ## 2. Neural Network Architecture
 
