@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/jingieboy/Neural_Network_From_Scratch/blob/main/ignore_img/MNIST_dataset_example.png)
 
-Here is a simple neural network architecture to recognise hand-written digits based of the famous MNIST dataset
+Here is a simple neural network architecture to recognise hand-written digits based off the famous MNIST dataset
 
 ## 1. About the dataset
 
